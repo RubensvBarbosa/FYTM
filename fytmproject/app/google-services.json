@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "200120064871",
+    "project_id": "fytmproject-abd9f",
+    "storage_bucket": "fytmproject-abd9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200120064871:android:14da23ddfaff5c0615adc2",
+        "android_client_info": {
+          "package_name": "pt.ismai.fytmproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200120064871-uta1haakprlvfmgb56vbsm588qtes04g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEhTrqVeqa6pdmwTw_z2nqfZ_KEV-kNEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200120064871-uta1haakprlvfmgb56vbsm588qtes04g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

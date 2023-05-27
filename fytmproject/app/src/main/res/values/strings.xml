@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FYTMproject</string>
+    <string name="titulo_form_cadastro">Cadastre-se</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_senha">Senha</string>
+    <string name="hint_idade">Idade</string>
+    <string name="hint_nick">Nick Name</string>
+    <string name="seujogo">Seu jogo</string>
+    <string name="horario">Período disponível para jogar</string>
+    <string name="cs_go">CS:GO</string>
+    <string name="lol">LOL</string>
+    <string name="pubg">PUBG</string>
+    <string name="periodomanha">MANHA</string>
+    <string name="periodotarde">TARDE</string>
+    <string name="periodonoite">NOITE</string>
+</resources>
